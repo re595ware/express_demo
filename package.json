@@ -1,0 +1,12 @@
+{
+  "name": "express_demo",
+  "version": "1.0.0",
+  "description": "Simple Express server that responds Hello World on GET /",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

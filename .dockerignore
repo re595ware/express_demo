@@ -1,0 +1,13 @@
+# node and dev files
+node_modules
+npm-debug.log
+yarn-error.log
+
+# local environment and OS files
+.env
+.DS_Store
+
+# Docker and IDE config
+.git
+.gitignore
+.vscode
